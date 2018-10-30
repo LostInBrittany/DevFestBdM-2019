@@ -28,6 +28,10 @@ const importPreviousSpeakers = () => {
   const previousSpeakers = data.previousSpeakers;
   console.log('\tImporting', Object.keys(previousSpeakers).length, 'previous speakers...');
 
+  if (Object.keys(previousSpeakers).length == 0) {
+    return;
+  }
+
   const batch = firestore.batch();
 
   Object.keys(previousSpeakers).forEach((speakerId, order) => {
@@ -105,9 +109,12 @@ const importGallery = () => {
   const gallery = data.gallery;
   console.log('\tImporting gallery...');
 
+  if (!Object.keys(gallery) || Object.keys(gallery).length == 0) {
+    return;
+  }
   const batch = firestore.batch();
 
-  Object.keys(gallery).forEach((docId) => {
+  Object.keys(gallery).forEach((docId) => {  
     batch.set(
       firestore.collection('gallery').doc(`${docId}`.padStart(3, 0)),
       {
@@ -146,7 +153,11 @@ const importBlog = () => {
 
 const importVideos = () => {
   const docs = data.videos;
-  console.log('\tImporting videos...');
+  console.log('\tImporting', Object.keys(docs).length, 'videos...');
+
+  if (Object.keys(docs).length == 0) {
+    return;
+  }
 
   const batch = firestore.batch();
 

@@ -1,15 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://devfesttoulouse-2018.firebaseapp.com/",
+  "url": "https://devfestbdm.firebaseapp.com/",
   "analytics": "UA-37717223-7",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyAMHUXSkZB-pjbj3E76leob2qgMjeqqYY0",
-    "authDomain": "sandbox-devfesttoulouse.firebaseapp.com",
-    "databaseURL": "https://sandbox-devfesttoulouse.firebaseio.com",
-    "projectId": "sandbox-devfesttoulouse",
-    "storageBucket": "sandbox-devfesttoulouse.appspot.com",
-    "messagingSenderId": "724656694887"
+    "apiKey": "AIzaSyAqGJQp4WR4QrxNWanJBXDi8eWDJFeaY50",
+    "authDomain": "devfestbdm.firebaseapp.com",
+    "databaseURL": "https://devfestbdm.firebaseio.com",
+    "projectId": "devfestbdm",
+    "storageBucket": "devfestbdm.appspot.com",
+    "messagingSenderId": "639492770856"
   },
   "googleMapApiKey": "AIzaSyCBluW0pkQawRxkcrvbbadme6rlwrpZchw"
 }
