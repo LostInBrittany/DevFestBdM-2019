@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "GDG Toulouse",
-    "twitter": "devfesttoulouse",
-    "blog": "http://gdgtoulouse.fr/",
-    "url": "http://gdgtoulouse.fr/"
+    "name": "DevFest du Bout du Monde",
+    "twitter": "devfestbdm",
+    "blog": "https://devfest.duboutdumonde.bzh/blog/",
+    "url": "https://devfest.duboutdumonde.bzh/"
   },
-  "startDate": "2018-11-08T09:00:00+01:00",
-  "endDate": "2018-11-08T19:00:00+01:00",
+  "startDate": "2019-02-22T09:00:00+01:00",
+  "endDate": "2019-02-22T19:00:00+01:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "fr-FR"
   },
-  "hashtag": "DevFestToulouse18",
+  "hashtag": "DevFestBdM",
   "disabledSchedule": true,
   "navigation": [
     {
@@ -47,17 +47,11 @@
       "route": "faq",
       "permalink": "/faq/",
       "label": "FAQ"
-    },
-    {
-      "route": "jobs",
-      "permalink": "https://jobs.devfesttoulouse.fr/",
-      "external": true,
-      "label": "Jobs"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Centre de Congrès Pierre Baudis",
+      "description": "Faculté des Lettres et Sciences Humaines, U.B.O.",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -124,20 +118,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Centre de Congrès Pierre Baudis",
-    "city": "Toulouse",
-    "short": "Toulouse, France",
-    "address": "11 Espl. Compans Caffarelli, 31000 Toulouse",
+    "name": "Faculté des Lettres et Sciences Humaines, U.B.O.",
+    "city": "Brest",
+    "short": "Brest, France",
+    "address": "20 Rue Duquesne, 29238 Brest",
     "pointer": {
-      "latitude": 43.6110956,
-      "longitude": 1.4332799,
+      "latitude": 48.39184,
+      "longitude": -4.4905537,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
-      "longitude": 8
+      "longitude": -4
     },
-    "description": "Le Centre de Congrès Pierre Baudis est un lieu d'échanges moderne, situé sur un emplacement privilégié, à proximité immédiate du centre de Toulouse et dans un environnement verdoyant."
+    "description": "La Faculté des Lettres et Sciences Humaines de l'Université de Bretagne Occidentale est située sur un emplacement privilégié, à proximité immédiate du centre de Brest."
   },
   "mediaQueries": {
     "xs": {

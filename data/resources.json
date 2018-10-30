@@ -1,16 +1,16 @@
 {
-  "title": "DevFest Toulouse 2018",
+  "title": "DevFest du Bout du Monde 2019",
   "description": "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "Jeudi 8 Novembre, 2018",
+  "dates": "Vendredi 22 Février, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Partager",
   "followOur": "Suivez notre ",
   "followUs": "Suivez nous sur ",
   "emailUs": "contact@devfesttoulouse.fr",
-  "partnershipResources": "Partnership Resources",
-  "eventResources": "Event Resources",
+  "partnershipResources": "Dossier de sponsoring",
+  "eventResources": "Matériel additionnel",
   "buyTicket": "Inscription",
   "signIn": "Sign in",
   "signOut": "Sign out",
@@ -36,8 +36,13 @@
       "title": "A propos",
       "links": [
         {
-          "name": "GDG Toulouse",
-          "url": "http://gdgtoulouse.fr/",
+          "name": "FinistDevs (GDG Finistère)",
+          "url": "http://finistdevs.org/",
+          "newTab": true
+        },
+        {
+          "name": "Code d'Armor (GDG Côtes d'Armor)",
+          "url": "http://finistdevs.org/",
           "newTab": true
         },
         {
@@ -48,26 +53,11 @@
       ]
     },
     {
-      "title": "Précédentes éditions",
-      "links": [
-        {
-          "name": "DevFest Toulouse 2017",
-          "url": "https://2017.devfesttoulouse.fr/",
-          "newTab": true
-        },
-        {
-          "name": "DevFest Toulouse 2016",
-          "url": "https://2016.devfesttoulouse.fr/",
-          "newTab": true
-        }
-      ]
-    },
-    {
       "title": "Devenir partenaire",
       "links": [
         {
           "name": "Proposition de partenariat",
-          "url": "https://docs.google.com/presentation/d/e/2PACX-1vR9oEvhN0eKW6KeMqJzYZt1AtwiO5eyRhWcy6cXfE63vtZzX8U9B8_r2LpO6WIwDWjOoLkf10G7tFGO/pub?start=false&loop=true&delayms=0&slide=id.g376bab0a27_1_7",
+          "url": "https://drive.google.com/file/d/1Mfz5jysVdRGARKV9kKFZ4YmVQE_egMp-/view?usp=sharing",
           "newTab": true
         }
       ]
@@ -76,7 +66,7 @@
   "subscribeNote": "Pas de spam, juste les dernières infos !",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "Le DevFest Toulouse, c'est quoi ?",
+    "title": "Le DevFest du Bout du Monde, c'est quoi ?",
     "callToAction": {
       "featuredSessions": {
         "description": "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.",
@@ -92,7 +82,7 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Participants",
-        "number": "700"
+        "number": "350"
       },
       "days": {
         "label": "Journée",
@@ -100,7 +90,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "36"
+        "number": "30"
       },
       "tracks": {
         "label": "Tracks en parallèle",
@@ -115,7 +105,7 @@
     "notAvailableYet": "Pas encore disponible...",
     "save": "Économisez ${discount}% !",
     "shopTitle": "Billetterie",
-    "shopLink": "https://www.billetweb.fr/devfest-toulouse-2018"
+    "shopLink": ""
   },
   "partnersBlock": {
     "title": "Partenaires",
@@ -186,7 +176,7 @@
     "emailAddress": "Email Address",
     "firstName": "Prénom",
     "lastName": "Nom",
-    "formTitle": "Recevez les dernières news, info à propos du DevFest Toulouse 2018 !",
+    "formTitle": "Recevez les dernières news, info à propos du DevFest du Bout du Monde 2019 !",
     "emailRequired": "Veuillez entrer une addresse mail valide",
     "subscribe": "Souscrire",
     "subscribed": "Souscription effectuée",
@@ -195,7 +185,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Le DevFest Toulouse est un événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le GDG Toulouse (ex TAUG).<br><br>Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse."
+    "description": "Le DevFest du Bout du Monde est un événement organisé par les communautés de développeurs de la pointe de la Bretagne, et porté administrativement par les communautés FinistDevs (GDG Finistère) et Code d'Armor (GDG Côtes d'Armor.<br><br>Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
