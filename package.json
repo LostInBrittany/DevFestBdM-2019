@@ -1,7 +1,7 @@
 {
-  "name": "site-devfest-toulouse-2018",
-  "version": "2.0.0-alpha.1",
-  "description": "Site du Devfest Toulouse",
+  "name": "site-devfest-bdm-2019",
+  "version": "1.0.0-alpha.1",
+  "description": "Site du Devfest du Bout du Monde",
   "scripts": {
     "start": "npm run serve",
     "gulp": "gulp",
