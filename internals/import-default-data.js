@@ -133,8 +133,12 @@ const importGallery = () => {
 
 const importBlog = () => {
   const blog = data.blog;
-  console.log('\tImporting blog...');
+  console.log('\tImporting', Object.keys(blog).length, 'blog posts...');
 
+  if (Object.keys(blog).length == 0) {
+    return;
+  }
+  
   const batch = firestore.batch();
 
   Object.keys(blog).forEach((docId) => {
