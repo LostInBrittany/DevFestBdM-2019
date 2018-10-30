@@ -1,5 +1,6 @@
 import { initializeFirebase, firestore } from './firebase-config';
 import data from '../docs/default-firebase-data.json';
+import {readFileSync} from 'fs';
 
 const importSpeakers = () => {
   const speakers = data.speakers;
@@ -87,7 +88,7 @@ const importPartners = () => {
   Object.keys(partners).forEach((docId) => {
     batch.set(
         firestore.collection('partners').doc(docId),
-        { title: partners[docId].title },
+        { title: partners[docId].title, style: partners[docId].style },
     );
 
     partners[docId].logos.forEach((item, id) => {
@@ -142,6 +143,11 @@ const importBlog = () => {
   const batch = firestore.batch();
 
   Object.keys(blog).forEach((docId) => {
+
+    blog[docId].content = readFileSync(blog[docId].source)
+      .toString()
+      .replace("\n", "<br/>");
+
     batch.set(
       firestore.collection('blog').doc(docId),
       blog[docId],
