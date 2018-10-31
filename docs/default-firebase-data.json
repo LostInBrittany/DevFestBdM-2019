@@ -2075,7 +2075,7 @@
           "socials": [
             {
               "icon": "twitter",
-              "link": "https://twitter.com/PCrepieux",
+              "link": "https://twitter.com/sliard",
               "name": "Twitter"
             },
             {
@@ -2090,47 +2090,55 @@
       "title": "Core Team"
     }
   ],
-  "tickets": [
+  "tickets" : [ 
     {
-      "currency": "€",
-      "starts": "04 Avril",
-      "ends": "08 Novembre",
-      "info": "50 premières places",
-      "name": "BlindBirds",
-      "price": 40,
-      "available": true,
-      "inDemand": false,
-      "regular": true,
-      "soldOut": true,
-      "url": "https://www.billetweb.fr/devfest-toulouse-2018"
-    },
-    {
-      "currency": "€",
-      "starts": "06 Juin",
-      "ends": "08 Novembre",
-      "info": "70 premières places",
-      "name": "EarlyBirds",
-      "price": 60,
-      "available": true,
-      "inDemand": false,
-      "regular": true,
-      "soldOut": true,
-      "url": "https://www.billetweb.fr/devfest-toulouse-2018"
-    },
-    {
-      "currency": "€",
-      "starts": "01 Août",
-      "ends": "08 Novembre",
-      "info": "250 premières places",
-      "name": "Normal",
-      "price": 80,
-      "available": true,
-      "inDemand": false,
-      "regular": true,
-      "soldOut": true,
-      "url": "https://www.billetweb.fr/devfest-toulouse-2018",
-      "primary": true
-    }
+      "available" : false,
+      "currency" : "€",
+      "ends" : "Jan 31",
+      "inDemand" : false,
+      "info" : "Or first 25 tickets",
+      "name" : "Pre Early Bird",
+      "price" : 20,
+      "regular" : true,
+      "soldOut" : false,
+      "starts" : "Oct 31",
+      "url" : ""
+    }, {
+      "available" : false,
+      "currency" : "€",
+      "ends" : "Jan 31",
+      "inDemand" : true,
+      "info" : "Or first 75 tickets",
+      "name" : "Early Bird",
+      "price" : 25,
+      "regular" : true,
+      "soldOut" : false,
+      "starts" : "Oct 31",
+      "url" : ""
+    }, {
+      "available" : false,
+      "currency" : "€",
+      "ends" : "Jan 31",
+      "inDemand" : false,
+      "info" : "Or first 300 tickets",
+      "name" : "Regular",
+      "price" : 30,
+      "primary" : true,
+      "regular" : true,
+      "soldOut" : false,
+      "starts" : "Oct 31",
+      "url" : ""
+    }, {
+      "available" : false,
+      "currency" : "€",
+      "ends" : "Jan 31",
+      "info" : "Money worth nothing when you love it",
+      "name" : "I Love DFBdM",
+      "price" : 100,
+      "soldOut" : false,
+      "starts" : "Oct 31",
+      "url" : ""
+    } 
   ],
   "videos": [],
   "notifications": {
