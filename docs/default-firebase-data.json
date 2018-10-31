@@ -2000,6 +2000,91 @@
             }
           ],
           "title": "FinistDevs"
+        },
+        {
+          "name": "Aurélien Hébert",
+          "photoUrl": "/images/people/aurelien-hebert.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/AurrelH95",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/aurrelhebert",
+              "name": "Github"
+            }
+          ],
+          "title": "FinistDevs"
+        },
+        {
+          "name": "Marc Poppleton",
+          "photoUrl": "/images/people/marc-poppleton.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/marcpoppleton",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/marcpoppleton",
+              "name": "Github"
+            }
+          ],
+          "title": "Code d'Armor"
+        },
+        {
+          "name": "Pierre-Yves Lapersonne",
+          "photoUrl": "/images/people/py-lapersonne.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/pylapp",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/pylapp",
+              "name": "Github"
+            }
+          ],
+          "title": "Code d'Armor"
+        },
+        {
+          "name": "Pierre Crépieux",
+          "photoUrl": "/images/people/pierre-crepieux.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/PCrepieux",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/pcrepieux",
+              "name": "Github"
+            }
+          ],
+          "title": "Code d'Armor"
+        },
+        {
+          "name": "Samuel Liard",
+          "photoUrl": "/images/people/samuel-liard.jpg",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/PCrepieux",
+              "name": "Twitter"
+            },
+            {
+              "icon": "github",
+              "link": "https://github.com/pcrepieux",
+              "name": "Github"
+            }
+          ],
+          "title": "Code d'Armor"
         }
       ],
       "title": "Core Team"
