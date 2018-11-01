@@ -1,13 +1,13 @@
 ## Général
 
 ### Qu'est ce que le DevFest du Bout du Monde ?
-Le DevFest, ou “Developers Festival”, est une conférence technique destinée aux développeur·se·s.
-Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
-Durant toute la journée, des orateurs reconnus viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, etc... ainsi que des bonnes pratiques de développement.
+Le DevFest, ou “Developers Festival”, est une conférence technique destinée aux développeurs et développeuses.
+Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.
+Durant toute la journée, des orateurs et oratrices reconnus viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, etc... ainsi que des bonnes pratiques de développement.
 Des pauses permettent d'engager le dialogue et d'approfondir les sujets présentés.
 
 Le développement logiciel est un sujet très vaste et notre comité de sélection a à cœur de proposer un programme varié et intéressant.
-Cette journée sera l'occasion de rencontrer des orateurs de renommée internationale mais également nationale, en effet nous avons aussi pour objectif de faire une place importante aux conférenciers locaux.
+Cette journée sera l'occasion de rencontrer des orateurs et oratrices de renommée internationale mais également nationale, en effet nous avons aussi pour objectif de faire une place importante aux conférenciers locaux.
 
 Le DevFest s'inscrit dans un [cadre international](https://developers.google.com/events/devfest/) et est organisé en partenariat avec Google.
 
@@ -42,12 +42,12 @@ Le dossier de partenariat est [disponible ici](https://drive.google.com/file/d/1
 ## CFP
 
 ### Quel est le format des conférences ?
-Deux types de conférences sont proposées :
+Trois types de conférences sont proposées :
 - Les **lightning talks**, d’une durée de **15 minutes**, sans question.
 - Les **conférences**, d’une durée de **40 minutes**, sans question dans la salle.
 - Les **ateliers**, d'une durée de **1 heure 30 minutes**, orientés pratique
 
-Les orateur·rice·s sont invités à rejoindre le speaker booth après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
+Les orateurs et oratrices sont invités à rejoindre le speaker booth après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
 Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire à l’issue des 40 minutes de conférence.
 
 
@@ -60,9 +60,9 @@ Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://confe
 Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
 Que vous présentiez un talk seul ou en duo, chaque conférencier a son entrée offerte.
 
-### Est-ce que l'on peut soumettre un talk a plusieurs ?
+### Est-ce que l'on peut soumettre un talk à plusieurs ?
 Oui, sur le site du CFP, si vous n'êtes pas seul lors de la présentation, renseignez l'e-mail des autres conférenciers, ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
-Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateur·rice·s. 
+Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateurs et oratrices. 
 
 
 ### J’ai proposé une conférence. Dois-je acheter mon entrée ?
