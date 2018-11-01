@@ -6,6 +6,9 @@ const importSpeakers = () => {
   const speakers = data.speakers;
   console.log('\tImporting', Object.keys(speakers).length, 'speakers...');
 
+  if (Object.keys(speakers).length == 0) {
+    return;
+  }
   const batch = firestore.batch();
 
   Object.keys(speakers).forEach((speakerId, order) => {
@@ -213,8 +216,11 @@ const importTickets = () => {
 
 const importSessions = () => {
   const docs = data.sessions;
-  console.log('\tImporting sessions...');
+  console.log('\tImporting', Object.keys(docs).length, 'sessions...');
 
+  if (Object.keys(docs).length == 0 ) {
+    return;
+  }
   const batch = firestore.batch();
 
   Object.keys(docs).forEach((docId) => {

@@ -12,7 +12,7 @@ Cette journée sera l'occasion de rencontrer des orateurs de renommée internati
 Le DevFest s'inscrit dans un [cadre international](https://developers.google.com/events/devfest/) et est organisé en partenariat avec Google.
 
 ### Les communautés organisatrices
-Le DevFest Toulouse est un événement organisé par les communautés de développeurs de la pointe de la Bretagne, et porté administrativement par le FinistDevs (GDG Finistère) et Code d'Armor (GDG Côtes d'Armor).
+Le DevFest du Bout du Monde est un événement organisé par les communautés de développeurs de la pointe de la Bretagne, et porté administrativement par le FinistDevs (GDG Finistère) et Code d'Armor (GDG Côtes d'Armor).
 Vous retrouverez la liste des communautés en bas de page principale.
 
 Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse.

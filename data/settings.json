@@ -37,11 +37,16 @@
       "route": "faq",
       "permalink": "/faq/",
       "label": "FAQ"
+    },
+    {
+      "route": "cod",
+      "permalink": "/cod/",
+      "label": "Code de conduite"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Faculté des Lettres et Sciences Humaines, U.B.O.",
+      "description": "Home",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -98,7 +103,7 @@
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
+      "title": "Code de conduite",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
@@ -142,12 +147,8 @@
   "socialNetwork": {
     "follow": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/GDGToulouse/"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/devfesttoulouse"
+        "url": "https://twitter.com/devfestbdm"
       },
       {
         "name": "linkedin",
@@ -173,7 +174,7 @@
       }
     ]
   },
-  "mailto": "contact@devfesttoulouse.fr",
+  "mailto": "devfestduboutdumonde@gmail.com",
   "mailchimp": {
     "url": "https://eepurl.com/b6Pgvn",
     "name": "Recevoir la newsletter"

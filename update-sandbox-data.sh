@@ -13,11 +13,11 @@ collections=(blog
              tickets
              videos)
 
-yarn firebase use sandbox-devfesttoulouse
+npm run firebase use sandbox-devfestbdm
 
 for col in "${collections[@]}"
 do :
-  yarn firebase firestore:delete -r -y ${col}
+  npm run firebase firestore:delete -r -y ${col}
 done
 
-yarn firestore:ci:update
+npm run firestore:ci:update
