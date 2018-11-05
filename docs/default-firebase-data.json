@@ -246,7 +246,7 @@
             {
               "icon": "github",
               "link": "https://github.com/LostInBrittany",
-              "name": "Github"
+              "name": "GitHub"
             },
             {
               "icon": "linkedin",
@@ -268,7 +268,12 @@
             {
               "icon": "github",
               "link": "https://github.com/PierreZ",
-              "name": "Github"
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pierre-zemb-8004125b/",
+              "name": "LinkedIn"
             }
           ],
           "title": "FinistDevs"
@@ -285,7 +290,12 @@
             {
               "icon": "github",
               "link": "https://github.com/Steffy29",
-              "name": "Github"
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/st%C3%A9phanie-moallic-76642b12/",
+              "name": "LinkedIn"
             }
           ],
           "title": "FinistDevs"
@@ -302,7 +312,12 @@
             {
               "icon": "github",
               "link": "https://github.com/aurrelhebert",
-              "name": "Github"
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/aur%C3%A9lien-h%C3%A9bert-718ba569/",
+              "name": "LinkedIn"
             }
           ],
           "title": "FinistDevs"
@@ -319,7 +334,12 @@
             {
               "icon": "github",
               "link": "https://github.com/marcpoppleton",
-              "name": "Github"
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/marcpoppleton/",
+              "name": "LinkedIn"
             }
           ],
           "title": "Code d'Armor"
@@ -336,7 +356,12 @@
             {
               "icon": "github",
               "link": "https://github.com/pylapp",
-              "name": "Github"
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pierre-yves-lapersonne-88bb59a4/",
+              "name": "LinkedIn"
             }
           ],
           "title": "Code d'Armor"
@@ -353,7 +378,12 @@
             {
               "icon": "github",
               "link": "https://github.com/pcrepieux",
-              "name": "Github"
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/pcrepieux/",
+              "name": "LinkedIn"
             }
           ],
           "title": "Code d'Armor"
@@ -369,8 +399,13 @@
             },
             {
               "icon": "github",
-              "link": "https://github.com/pcrepieux",
-              "name": "Github"
+              "link": "https://github.com/sliard",
+              "name": "GitHub"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/samuelliard/",
+              "name": "LinkedIn"
             }
           ],
           "title": "Code d'Armor"
