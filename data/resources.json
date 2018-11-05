@@ -2,9 +2,9 @@
     "title": "DevFest du Bout du Monde 2019",
     "description": "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.",
     "image": "images/social-share.png",
-    "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+    "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, finistdevs, code d'armor",
     "dates": "Vendredi 22 Février, 2019",
-    "partnershipProposition": "https://bit.ly/dfua17-partners",
+    "partnershipProposition": "https://drive.google.com/file/d/1Mfz5jysVdRGARKV9kKFZ4YmVQE_egMp-/view?usp=sharing",
     "share": "Partager",
     "followOur": "Suivez notre ",
     "followUs": "Suivez nous sur ",
@@ -216,7 +216,7 @@
         "image": "/images/team.jpg",
         "blocks": [{
                 "title": "Organisateurs",
-                "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+                "description": "<a href='https://finistdevs.org/' target='_blank'>GDG Finistère</a> and <a href='https://codedarmor.fr/' target='_blank'>GDG Côtes d'Armor</a> are proud organizers of DevFest du Bout du Monde",
                 "callToAction": {
                     "label": "Ouvrir la page équipe",
                     "link": "/team"
@@ -224,7 +224,7 @@
             },
             {
                 "title": "What is GDG?",
-                "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+                "description": "Google Developers Group (GDG) - is open and volunteer geek community who creates exciting projects and share experience about Google technologies with a passion",
                 "callToAction": {
                     "label": "Read more",
                     "link": "https://developers.google.com/groups/",
