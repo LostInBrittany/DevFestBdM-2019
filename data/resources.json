@@ -181,7 +181,7 @@
         "toast": "Successfully subscribed!"
     },
     "team": {
-        "description": "Le DevFest du Bout du Monde est un événement organisé par les communautés de développeurs de la pointe de la Bretagne, et porté administrativement par les communautés FinistDevs (GDG Finistère) et Code d'Armor (GDG Côtes d'Armor.<br><br>Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse."
+        "description": "Le DevFest du Bout du Monde est un événement organisé par les communautés de développeurs de la pointe de la Bretagne, et porté administrativement par les communautés FinistDevs (GDG Finistère) et Code d'Armor (GDG Côtes d'Armor).<br><br>Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse."
     },
     "schedule": {
         "saveSessionsSignedOut": "Sign in to save sessions"
