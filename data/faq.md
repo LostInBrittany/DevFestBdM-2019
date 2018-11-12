@@ -36,7 +36,7 @@ EN TRAIN :
 Depuis la gare SNCF, prennez l'avenue Clemenceau et marchez environ 200m.
 
 ### Comment devenir sponsor/partenaire ?
-Le dossier de partenariat est [disponible ici](https://drive.google.com/file/d/1Mfz5jysVdRGARKV9kKFZ4YmVQE_egMp-/view?usp=sharing).
+Le dossier de partenariat est [disponible ici](https://drive.google.com/open?id=1MP68woWboXbjSO4HG1VJvTT0eqrABrxM).
 
 
 ## CFP

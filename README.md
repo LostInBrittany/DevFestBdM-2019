@@ -30,26 +30,36 @@ Our goal is to allow event organizers to set up professional conference website 
 
 ## Getting Started
 1. [Fork repository](https://github.com/gdg-x/hoverboard/fork) and clone it locally
-1. Setup Environment
+2. Setup Environment
    * Install [Node.js (v8.9.4 or above)](https://nodejs.org/en/download/)
    * Install Firebase CLI (you might need to use 'sudo'): `npm i -g firebase-tools` or `yarn global add firebase-tools`
-1. Install project dependencies: `npm install` or `yarn`
-1. Create [Firebase account](https://console.firebase.google.com) and login into [Firebase CLI](https://firebase.google.com/docs/cli/): `firebase login`
-1. Update [Hoverboard config](/config) and [Resources](/data)
-1. Import initial data to the Firebase Database
+3. Install project dependencies: `npm install` or `yarn`
+4. Create [Firebase account](https://console.firebase.google.com) and login into [Firebase CLI](https://firebase.google.com/docs/cli/): `firebase login`
+5. Update [Hoverboard config](/config) and [Resources](/data)
+6. Import initial data to the Firebase Database
     * Generate `serviceAccount.json` file
       - Go to https://console.firebase.google.com/project/%YOUR_PROJECT_ID%/settings/serviceaccounts/adminsdk
       - Ensure that **Node.js** is selected and press **GENERATE NEW PRIVATE KEY** 
       - Save the file as `serviceAccount.json` and to the root of your hoverboard directory (❗Do NOT commit this file to the public repository)
     * [Optional] You can edit `docs/default-firebase-data.json)` file using your own data
     * Run `npm run firestore:init` or `yarn firestore:init`
-1. Run locally
+7. Run locally
    * `npm run serve` or `yarn serve`
-1. Build and deploy
+8. Build and deploy
    * `npm run deploy` or `yarn deploy`
    
-*NOTE:* By default command using configurations from `/configs/development.json`.
+*NOTE - 1:* By default command using configurations from `/configs/development.json`.
 To serve locally or deploy the production app use `yarn serve:prod` and `yarn deploy:prod` respectively.
+
+*NOTE - 2:* Sometimes you might need to run `npm run build` before `npm run deploy`
+
+*NOTE - 3:* It seems issues exist with Node.js and the _gRPC_ library making the `firestore:init` fail (specially with Node.js >= 11).
+Thus if you are looking for a running configuration, feel free to ensure:
+  * node version: v10.13.0
+  * npm version: 6.4.1
+  * nvm version: 0.33.0
+
+*NOTE - 4:* Once you defined the `serviceAccount.json` do not forget to update your `.firebaserc` file
 
 :book: Read the [Full Setup Guide](/docs/).
 
