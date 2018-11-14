@@ -1,8 +1,8 @@
 {
     "title": "DevFest du Bout du Monde 2019",
-    "description": "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.",
+    "description": "Le DevFes du Bout du Monde 2019 aura lieu à Brest et est organisé par les GDG de Brest (FinistDevs) et Lannion (Code d'Armor). Le DevFest ou 'Developers Festival', est une convention technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.",
     "image": "images/social-share.png",
-    "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, finistdevs, code d'armor",
+    "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev, finistdevs, code d'armor, bretagne, bout du monde",
     "dates": "Vendredi 22 Février, 2019",
     "partnershipProposition": "https://drive.google.com/file/d/1Mfz5jysVdRGARKV9kKFZ4YmVQE_egMp-/view?usp=sharing",
     "share": "Partager",
@@ -15,10 +15,10 @@
     "signIn": "Sign in",
     "signOut": "Sign out",
     "viewHighlights": "View Highlights",
-    "offlineMessage": "You can still work offline.",
-    "cachingComplete": "Caching complete! Future visits will work offline.",
-    "newVersionAvailable": "A new version of this app is available.",
-    "refresh": "Refresh",
+    "offlineMessage": "Vous pouvez maintenant visiter le site hors-ligne.",
+    "cachingComplete": "Mise en cache terminée ! Les prochaines visites fonctionneront hors-ligne.",
+    "newVersionAvailable": "Une nouvelle version de cette app est disponible.",
+    "refresh": "Refraîchir",
     "position": "Position",
     "country": "Country",
     "time": "Time",
@@ -45,7 +45,7 @@
                 },
                 {
                     "name": "Google Developers Group",
-                    "url": "https://developers.google.com/",
+                    "url": "https://developers.google.com/programs/community/gdg/",
                     "newTab": true
                 }
             ]
@@ -227,7 +227,7 @@
                 "description": "Google Developers Group (GDG) - is open and volunteer geek community who creates exciting projects and share experience about Google technologies with a passion",
                 "callToAction": {
                     "label": "Read more",
-                    "link": "https://developers.google.com/groups/",
+                    "link": "https://developers.google.com/programs/community/gdg/",
                     "newTab": true
                 }
             }
