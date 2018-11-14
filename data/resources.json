@@ -45,7 +45,7 @@
                 },
                 {
                     "name": "Google Developers Group",
-                    "url": "https://developers.google.com/",
+                    "url": "https://developers.google.com/programs/community/gdg/",
                     "newTab": true
                 }
             ]
@@ -227,7 +227,7 @@
                 "description": "Google Developers Group (GDG) - is open and volunteer geek community who creates exciting projects and share experience about Google technologies with a passion",
                 "callToAction": {
                     "label": "Read more",
-                    "link": "https://developers.google.com/groups/",
+                    "link": "https://developers.google.com/programs/community/gdg/",
                     "newTab": true
                 }
             }
