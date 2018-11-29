@@ -16,6 +16,32 @@
   "gallery": [],
   "partners": [
     {
+      "title": "Sponsors CRÊPE",
+      "style": "partner-au",
+      "logos": [
+        {
+          "name": "AcommeAssure.com",
+          "url": "https://www.acommeassure.com/",
+          "logoUrl": "/images/partners/logo-acommeassure.png"
+        },
+        {
+          "name": "Avalon Lab",
+          "url": "https://www.avalon-lab.fr/",
+          "logoUrl": "/images/partners/logo-avalon-lab.svg"
+        },
+        {
+          "name": "Clever Cloud",
+          "url": "https://www.clever-cloud.com/",
+          "logoUrl": "/images/partners/logo-clever-cloud-red.svg"
+        },
+        {
+          "name": "LR Technologies",
+          "url": "https://lrtechnologies.fr/",
+          "logoUrl": "/images/partners/logo-lr-technologies.png"
+        }
+      ]
+    },
+    {
       "title": "Soutien",
       "style": "partner",
       "logos": [

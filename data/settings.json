@@ -49,7 +49,7 @@
       "description": "Home",
       "background": {
         "color": "#673ab7",
-        "image": "/images/backgrounds/banneer.png"
+        "image": "/images/backgrounds/banner.jpg"
       },
       "fontColor": "#FFF"
     },
