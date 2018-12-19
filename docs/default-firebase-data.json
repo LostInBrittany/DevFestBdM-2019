@@ -2,6 +2,130 @@
   "sessions": {
   },
   "speakers": {
+    "tiffany_souterre": {
+      "id": "tiffany_souterre",
+      "name": "Tiffany Souterre",
+      "bio": "I love science and I love data! After finishing a Ph.D. in genetic engineering, I continued my quest for discovering new patterns through data science and machine learning. I currently work as a Big Data engineer and I play with machine learning algorithms on my free time. Someday, I wish to leverage data exploration to improve people's life.",
+      "company": "JEMS Datafactory",
+      "featured": true,
+      "photo": "/images/speakers/tiffany_souterre.jpg",
+      "photoUrl": "/images/speakers/tiffany_souterre.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/tiffanysouterre",
+          "name": "@tiffanysouterre"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Amagash",
+          "name": "Amagash"
+        }
+      ],
+      "shortBio": "Data geek 📊/ Google Developer Group Lead 💻 @GDGParis / Python Dev 🐍 / Ph.D. in Biotechnologies 🎓/ iGEM alumni ☣️",
+      "companyLogo": "/images/speakers/company/jems_datafactory.jpg",
+      "companyLogoUrl": "/images/speakers/company/jems_datafactory.jpg",
+      "country": "Paris, France"
+    },
+    "joel_lord": {
+      "id": "joel_lord",
+      "name": "Joel Lord",
+      "bio": "Joel Lord is passionate about web and technology in general. He likes to learn new things but most of all, he likes to share his discoveries. He does so by travelling at various conferences all across the globe. He graduated from college in computer programming in the last millennium. Apart for a little break to get his BSc in computational astrophysics, he was always in the industry. As a technical evangelist with Auth0, he meets with developers to help them make the web a safer place. During his free time, he is usually found stargazing in a camping site somewhere or brewing a batch of beer in his garage.",
+      "company": "Auth0",
+      "featured": true,
+      "photo": "/images/speakers/joel_lord.jpg",
+      "photoUrl": "/images/speakers/joel_lord.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/joel__lord",
+          "name": "@joel__lord"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/joellord",
+          "name": "Joel Lord"
+        }
+      ],
+      "shortBio": "Javascript junkie, technology enthusiast, tinkerer. Currently Technical Evangelist at Auth0 (https://auth0.com ). Author at @udemy and @eggheadio",
+      "companyLogo": "/images/speakers/company/auth0.png",
+      "companyLogoUrl": "/images/speakers/company/auth0.png",
+      "country": "Toronto, Ontario"
+    },
+    "fanny_demey": {
+      "id": "fanny_demey",
+      "name": "Fanny Demey",
+      "bio": "Je suis Lead dev mobile chez Premedit. Notre première app s'appelle Running Care qui a vocation d'accompagner les coureurs pour les prévenir les blessures . Je suis également présidente du GDG Lille et j'organise activement le Devfest Lille.",
+      "company": "Running Care",
+      "featured": true,
+      "photo": "/images/speakers/fanny_demey.jpg",
+      "photoUrl": "/images/speakers/fanny_demey.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/FannyDemey",
+          "name": "@FannyDemey"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/FannyDemey",
+          "name": "FannyDemey"
+        }
+      ],
+      "shortBio": "Mobile developer @premedit_rc / GDG Lille leader / Many other interests #travel #music #sport",
+      "companyLogo": "/images/speakers/company/running_care.png",
+      "companyLogoUrl": "/images/speakers/company/running_care.png",
+      "country": "Lille, France"
+    },
+    "alexandre_nicol": {
+      "id": "alexandre_nicol",
+      "name": "Alexandre Nicol",
+      "bio": "Développeur au sein de l'équipe \"Digital Innovation\" au centre R&D d'EDF Energy au UK depuis 2015. J'ai passé les 3 dernières années à explorer les systèmes conversationnels et à développer une multitude de chatbots, Alexa Skills et Google Actions. Enthousiaste à propos de ces technologies, j’ai eu la chance de pouvoir participer à plusieurs meetups, webinars et conférences, d’écrire quelques articles, et d’animer des workshops sur ce sujet. Né à Saint-Renan, et diplômé de l’ENIB en 2015, Brest n’a pas de secret pour moi !",
+      "company": "EDF Energy",
+      "featured": true,
+      "photo": "/images/speakers/alexandre_nicol.jpg",
+      "photoUrl": "/images/speakers/alexandre_nicol.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/nicol_alexandre",
+          "name": "@nicol_alexandre"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/alexandrenicol",
+          "name": "alexandrenicol"
+        }
+      ],
+      "shortBio": "R&D Developer @ EDF Energy, Chatbot advocate. Web // Mobile // SIG // AR // Voice // Chatbot.",
+      "companyLogo": "/images/speakers/company/edf_energy.png",
+      "companyLogoUrl": "/images/speakers/company/edf_energy.png",
+      "country": "Brighton, UK"
+    },
+    "doug_sillars": {
+      "id": "doug_sillars",
+      "name": "Doug Sillars",
+      "bio": "Doug is is a freelance mobile performance expert, having helped thousands of developers speed up their mobile apps and websites. A Google Developer Expert and the author of O’Reilly’s “High Performance Android Apps,” Doug has spoken at developer conferences in the US and Europe, and blogs regularly at dougsillars.com. He is currently working as a freelance digital nomad, traveling with his family in Europe.",
+      "shortBio": "Freelance Developer Evangelist: Mobile and web performance. Google Developer Expert. Author: High Performance Android Apps. Digital nomad and father of four.",
+      "company": "Freelance",
+      "country": "Digital Nomad in EU",
+      "featured": true,
+      "photo": "/images/speakers/doug_sillars.jpg",
+      "photoUrl": "/images/speakers/doug_sillars.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dougsillars",
+          "name": "@dougsillars"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/dougsillars",
+          "name": "dougsillars"
+        }
+      ],
+      "title": "Freelance mobile performance expert"
+    }  
   },
   "blog": {
     "lancement-devfest-bdm-2019": {
@@ -16,13 +140,50 @@
   "gallery": [],
   "partners": [
     {
-      "title": "Sponsors CRÊPE",
+      "title": "Sponsors KOUIGN AMANN",
+      "style": "partner-pt",
+      "logos": [
+        {
+          "name": "Google",
+          "url": "https://www.google.com/",
+          "logoUrl": "/images/partners/logo-google.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Sponsors FAR",
       "style": "partner-au",
+      "logos": [
+        {
+          "name": "ASI",
+          "url": "https://www.asi.fr/",
+          "logoUrl": "/images/partners/logo-asi.jpg"
+        },
+        {
+          "name": "CESI",
+          "url": "https://www.cesi.fr/",
+          "logoUrl": "/images/partners/logo-cesi.png"
+        },
+        {
+          "name": "Zenika",
+          "url": "https://www.zenika.com/",
+          "logoUrl": "/images/partners/logo-zenika.png"
+        }
+      ]
+    },
+    {
+      "title": "Sponsors CRÊPE",
+      "style": "partner-ar",
       "logos": [
         {
           "name": "AcommeAssure.com",
           "url": "https://www.acommeassure.com/",
           "logoUrl": "/images/partners/logo-acommeassure.png"
+        },
+        {
+          "name": "Apside",
+          "url": "https://www.apside.com/",
+          "logoUrl": "/images/partners/logo-apside.png"
         },
         {
           "name": "Avalon Lab",
@@ -42,8 +203,19 @@
       ]
     },
     {
-      "title": "Soutien",
+      "title": "Sponsors PALET",
       "style": "partner",
+      "logos": [
+        {
+          "name": "Saagie",
+          "url": "https://www.saagie.com/",
+          "logoUrl": "/images/partners/logo-saagie.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Partennaires",
+      "style": "partner-au",
       "logos": [
         {
           "name": "Brest Métropole",
@@ -54,6 +226,27 @@
           "name": "Université de Bretagne Occidentale",
           "url": "https://www.univ-brest.fr/",
           "logoUrl": "/images/partners/logo-ubo.png"
+        },
+        {
+          "name": "Lannion-Trégor Communauté",
+          "url": "https://www.lannion-tregor.com/",
+          "logoUrl": "/images/partners/logo_ltc.png"
+        },
+        {
+          "name": "French Tech Brest+",
+          "url": "http://frenchtech-brestplus.bzh/",
+          "logoUrl": "/images/partners/logo_ftbp.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Soutiens",
+      "style": "partner",
+      "logos": [
+        {
+          "name": "Intia",
+          "url": "https://intia.fr/",
+          "logoUrl": "/images/partners/logo-intia.jpg"
         }
       ]
     },
@@ -446,48 +639,48 @@
       "currency" : "€",
       "ends" : "Jan 31",
       "inDemand" : false,
-      "info" : "Or first 25 tickets",
+      "info" : "Our first 25 tickets",
       "name" : "Pre Early Bird",
       "price" : 20,
       "regular" : true,
-      "soldOut" : false,
-      "starts" : "Oct 31",
-      "url" : ""
+      "soldOut" : true,
+      "starts" : "Dec 17",
+      "url" : "https://www.billetweb.fr/devfest-du-bout-du-monde"
     }, {
-      "available" : false,
+      "available" : true,
       "currency" : "€",
       "ends" : "Jan 31",
       "inDemand" : false,
-      "info" : "Or first 75 tickets",
+      "info" : "Our first 75 tickets",
       "name" : "Early Bird",
       "price" : 25,
       "regular" : true,
       "soldOut" : false,
-      "starts" : "Oct 31",
-      "url" : ""
+      "starts" : "Dec 19",
+      "url" : "https://www.billetweb.fr/devfest-du-bout-du-monde"
     }, {
       "available" : false,
       "currency" : "€",
       "ends" : "Jan 31",
       "inDemand" : false,
-      "info" : "Or first 300 tickets",
+      "info" : "Our first 300 tickets",
       "name" : "Regular",
       "price" : 30,
       "primary" : true,
       "regular" : true,
       "soldOut" : false,
-      "starts" : "Oct 31",
-      "url" : ""
+      "starts" : "Dec 19",
+      "url" : "https://www.billetweb.fr/devfest-du-bout-du-monde"
     }, {
-      "available" : false,
+      "available" : true,
       "currency" : "€",
       "ends" : "Jan 31",
       "info" : "Money worth nothing when you love it",
       "name" : "I Love DFBdM",
       "price" : 100,
       "soldOut" : false,
-      "starts" : "Oct 31",
-      "url" : ""
+      "starts" : "Dec 19",
+      "url" : "https://www.billetweb.fr/devfest-du-bout-du-monde"
     } 
   ],
   "videos": [],
