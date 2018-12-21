@@ -125,7 +125,59 @@
         }
       ],
       "title": "Freelance mobile performance expert"
-    }  
+    },
+    "david_gageot": {
+      "id": "david_gageot",
+      "name": "David Gageot",
+      "bio": "David est Developer Advocate chez Google Cloud. Il travaille sur les Containers Tools. Auparavant, il a participé à l'ouverture du bureau de R&D de Docker, à Paris.",
+      "shortBio": "Developer Advocate @Google Cloud. I run Docker in Docker in Docker... recursively",
+      "company": "Google",
+      "companyLogo": "/images/speakers/company/google.svg",
+      "companyLogoUrl": "/images/speakers/company/google.svg",
+      "country": "Paris, France",
+      "featured": true,
+      "photo": "/images/speakers/david_gageot.jpg",
+      "photoUrl": "/images/speakers/david_gageot.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/dgageot",
+          "name": "@dgageot"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/dgageot",
+          "name": "dgageot"
+        }
+      ],
+      "title": "Developer Advocate @ Google"
+    },
+    "vadim_caen": {
+      "id": "vadim_caen",
+      "name": "Vadim Caen",
+      "bio": "Vadim est ingénieur à Google dans l'équipe d'Android Studio de Londres. Il travaille sur les outils de design comme le Layout Editor et a un attrait particulier pour le développement front-end, Kotlin, et la crêperie bretonne en bas de chez lui!",
+      "shortBio": "Software Engineer @Google - @AndroidStudio - Design Tools - Opinions are my own",
+      "company": "Google",
+      "companyLogo": "/images/speakers/company/google.svg",
+      "companyLogoUrl": "/images/speakers/company/google.svg",
+      "country": "Paris, France",
+      "featured": true,
+      "photo": "/images/speakers/vadim_caen.jpg",
+      "photoUrl": "/images/speakers/vadim_caen.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/vadimcaen",
+          "name": "@vadimcaen"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/vaem",
+          "name": "vaem"
+        }
+      ],
+      "title": "Software Engineer @Google"
+    }    
   },
   "blog": {
     "lancement-devfest-bdm-2019": {
