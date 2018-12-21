@@ -50,7 +50,7 @@
       "shortBio": "Javascript junkie, technology enthusiast, tinkerer. Currently Technical Evangelist at Auth0 (https://auth0.com ). Author at @udemy and @eggheadio",
       "companyLogo": "/images/speakers/company/auth0.png",
       "companyLogoUrl": "/images/speakers/company/auth0.png",
-      "country": "Toronto, Ontario"
+      "country": "Toronto, Canada"
     },
     "fanny_demey": {
       "id": "fanny_demey",
@@ -100,7 +100,7 @@
       "shortBio": "R&D Developer @ EDF Energy, Chatbot advocate. Web // Mobile // SIG // AR // Voice // Chatbot.",
       "companyLogo": "/images/speakers/company/edf_energy.png",
       "companyLogoUrl": "/images/speakers/company/edf_energy.png",
-      "country": "Brighton, UK"
+      "country": "Brighton, United Kingdom"
     },
     "doug_sillars": {
       "id": "doug_sillars",
@@ -135,6 +135,14 @@
       "published": "2018-10-31",
       "source": "data/posts/2018-10-31-lancement-devfest-bdm-2019.md",
       "title": "Lancement du DevFest du Bout du Monde 2019"
+    }, 
+    "rgpd": {
+      "backgroundColor": "#ddd",
+      "brief": "Même les associations n'y échappent pas, alors parlons-en un peu...",
+      "image": "images/backgrounds/launch2019.png",
+      "published": "2018-12-20",
+      "source": "data/posts/2018-12-20-RGPD.md",
+      "title": "Et si on parlait RGPD ?"
     }
   },
   "gallery": [],
@@ -214,7 +222,7 @@
       ]
     },
     {
-      "title": "Partennaires",
+      "title": "Partenaires",
       "style": "partner-au",
       "logos": [
         {
@@ -639,7 +647,7 @@
       "currency" : "€",
       "ends" : "Jan 31",
       "inDemand" : false,
-      "info" : "Our first 25 tickets",
+      "info" : "Nos 25 premiers tickets",
       "name" : "Pre Early Bird",
       "price" : 20,
       "regular" : true,
@@ -651,7 +659,7 @@
       "currency" : "€",
       "ends" : "Jan 31",
       "inDemand" : false,
-      "info" : "Our first 75 tickets",
+      "info" : "Nos 75 premiers tickets",
       "name" : "Early Bird",
       "price" : 25,
       "regular" : true,
@@ -663,7 +671,7 @@
       "currency" : "€",
       "ends" : "Jan 31",
       "inDemand" : false,
-      "info" : "Our first 300 tickets",
+      "info" : "Nos 300 premiers tickets",
       "name" : "Regular",
       "price" : 30,
       "primary" : true,
@@ -675,7 +683,7 @@
       "available" : true,
       "currency" : "€",
       "ends" : "Jan 31",
-      "info" : "Money worth nothing when you love it",
+      "info" : "\\(-ㅂ-)/ ♥ ♥ ♥",
       "name" : "I Love DFBdM",
       "price" : 100,
       "soldOut" : false,
