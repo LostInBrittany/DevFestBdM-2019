@@ -36,7 +36,7 @@ EN TRAIN :
 Depuis la gare SNCF, prennez l'avenue Clemenceau et marchez environ 200m.
 
 ### Comment devenir sponsor/partenaire ?
-Le dossier de partenariat est [disponible ici](https://drive.google.com/file/d/1Mfz5jysVdRGARKV9kKFZ4YmVQE_egMp-/view?usp=sharing).
+Le dossier de partenariat est [disponible ici](https://drive.google.com/open?id=1MP68woWboXbjSO4HG1VJvTT0eqrABrxM).
 
 
 ## CFP
@@ -47,12 +47,11 @@ Trois types de conférences sont proposées :
 - Les **conférences**, d’une durée de **40 minutes**, sans question dans la salle.
 - Les **ateliers**, d'une durée de **1 heure 30 minutes**, orientés pratique
 
-Les orateurs et oratrices sont invités à rejoindre le speaker booth après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
+Les orateurs et oratrices sont invités à rejoindre le _speaker booth_ après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
 Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire à l’issue des 40 minutes de conférence.
 
 
 ### Comment devenir orateur/oratrice ?
-
 Le CFP est ouvert, il ferme le 1 Decembre 2018.
 
 Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://conference-hall.io/public/event/ECvcRjc9bRhEn6Q1nKPx).
@@ -60,13 +59,14 @@ Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://confe
 Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
 Que vous présentiez un talk seul ou en duo, chaque conférencier a son entrée offerte.
 
+
 ### Est-ce que l'on peut soumettre un talk à plusieurs ?
-Oui, sur le site du CFP, si vous n'êtes pas seul lors de la présentation, renseignez l'e-mail des autres conférenciers, ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
+Oui, sur le site du CFP, si vous n'êtes pas seul•e lors de la présentation, renseignez l'e-mail des autres conférenciers, ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
 Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateurs et oratrices. 
 
 
 ### J’ai proposé une conférence. Dois-je acheter mon entrée ?
 Si votre sujet (conférence, lightning talk ou atelier) a été sélectionné, nous vous offrons votre entrée au DevFest, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un talk à plusieurs, deux entrées vous seront offertes par conférence, les autres intervenants devront acheter leur propre place (en l’absence d’autres conférences acceptées.)
+Si vous présentez un talk à plusieurs, deux entrées vous seront offertes par conférence, les autres intervenants devront acheter leur propre place (en l’absence d’autres conférences acceptées).
 
-Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
+Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif _early-bird_.

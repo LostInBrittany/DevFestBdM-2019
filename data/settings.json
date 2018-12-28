@@ -49,7 +49,7 @@
       "description": "Home",
       "background": {
         "color": "#673ab7",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/banner.jpg"
       },
       "fontColor": "#FFF"
     },
@@ -149,14 +149,6 @@
       {
         "name": "twitter",
         "url": "https://twitter.com/devfestbdm"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/company/10254434"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/watch?v=_3YTO4vL0OY&list=PLuZ_sYdawLiWkhvpCuWV01mr1TO5etnvD"
       }
     ],
     "share": [
@@ -175,10 +167,6 @@
     ]
   },
   "mailto": "devfestduboutdumonde@gmail.com",
-  "mailchimp": {
-    "url": "https://eepurl.com/b6Pgvn",
-    "name": "Recevoir la newsletter"
-  },
   "signInProviders": {
     "providersData": [
       {
