@@ -15,7 +15,7 @@
             "class": "intro",
             "id": 101,
             "tags": [],
-            "type": "Keynote",
+            "type": "Keynotes",
             "speakers": []
         },
         "102": {
@@ -25,7 +25,7 @@
             "class": "end",
             "id": 102,
             "tags": [],
-            "type": "Keynote",
+            "type": "Keynotes",
             "speakers": []
         },
         "103": {
@@ -48,13 +48,13 @@
             "title": "Hands on Jigsaw",
             "type": "Atelier",
             "tags": [
-                "Backend", "Dev"
+                "Languages"
             ],
             "language": "Français",
             "complexity": "Débutant",
             "description": "Avec le modèle de support et de version de Java, nous sommes de plus en plus nombreux à regarder ce que nous propose Java 11…l’inférence de type, l’API reactive ou encore les collections immutables donnent envie de se lancer MAIS le système de module proposé avec Jigsaw fait peur...ou pas!\n\nDans cet atelier nous vous proposons par un peu de pratique de démystifier le système de module.\n\nVous devrez convertir une application multi-modules au sens Maven/Gradle en une application modulaire au sens Jigsaw (et Maven/Gradle).\n\nCela nous permettra d’aborder notamment les notions de module path, de gestion des dépendances ainsi que les impacts sur les tests unitaires. Le tout avec forcément des problématiques de build.\n\nVous aurez besoin des outils suivants (pour gagner du temps vous pouvez les installer par avance) :\n\n* [GIT](https://git-scm.com/).\n* La dernière version du JDK 11 [jdk.java.net](http://jdk.java.net/11/) ou [AdoptOpenJDK](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) avec la variable d'environnement JAVA_HOME correctement configurée. [SdkMan](http://sdkman.io/) est un excellent outil pour installer et gérer vos versions de java (et gradle, maven, kotlin, ...).\n* Votre/notre IDE préféré [IntelliJ](https://www.jetbrains.com/idea/download/).\n",
             "speakers": [
-                "mathieu_mure", "laurent_tournayre"
+                "mathieu_mure", "louis_tournayre"
             ]
         },
         "3201": {
@@ -87,7 +87,7 @@
             "title": "Stop Stalling! Delivering Fast Video without the Buffering",
             "type": "Conférence",
             "tags": [
-                "Web", "Mobile"
+                "Web"
             ],
             "language": "Anglais",
             "complexity": "Débutant",
@@ -139,7 +139,7 @@
             "title": "Les nouveautés \"serverless\" de Google Cloud",
             "type": "Conférence",
             "tags": [
-                "Backend"
+                "Cloud"
             ],
             "language": "Français",
             "complexity": "Débutant",
@@ -191,7 +191,7 @@
             "title": "L'UX a sauvé mon DevOps",
             "type": "Conférence",
             "tags": [
-                "UX", "Dev"
+                "UX & Dev"
             ],
             "language": "Français",
             "complexity": "Débutant",
@@ -204,7 +204,7 @@
             "title": "Machine to machine : jouons un peu avec MQTT, Mosquitto et Paho",
             "type": "Conférence",
             "tags": [
-                "IoT"
+                "Iot"
             ],
             "language": "Français",
             "complexity": "Intermédiaire",
@@ -230,7 +230,7 @@
             "title": ".Net Standard & .Net Core : Evolution de la plateforme",
             "type": "Conférence",
             "tags": [
-                "Backend"
+                "Languages"
             ],
             "language": "Français",
             "complexity": "Intermédiaire",
@@ -256,7 +256,7 @@
             "title": "Retour sur 3 années à developper des bots !",
             "type": "Conférence",
             "tags": [
-                "Dev"
+                "Languages"
             ],
             "language": "Français",
             "complexity": "Débutant",
@@ -282,7 +282,7 @@
             "title": "Designer une API pour votre DB (Rest || GraphQL || gRPC) ?",
             "type": "Conférence",
             "tags": [
-                "Backend"
+                "Data"
             ],
             "language": "Français",
             "complexity": "Débutant",
@@ -308,7 +308,7 @@
             "title": "Istio, we have a problem! Understanding and fixing bugs with a service-mesh",
             "type": "Conférence",
             "tags": [
-                "Backend"
+                "Cloud"
             ],
             "language": "Français",
             "complexity": "Intermédiaire",
@@ -386,7 +386,7 @@
             "title": "Datalogger industriel breton",
             "type": "Lightning Talk",
             "tags": [
-                "Data", "IoT"
+                "Data"
             ],
             "language": "Français",
             "complexity": "Intermédiaire",
@@ -399,7 +399,7 @@
             "title": "Au pays des Gophers (à partir de 3 ans)",
             "type": "Lightning Talk",
             "tags": [
-                "Backend", "Dev"
+                "Languages"
             ],
             "language": "Français",
             "complexity": "Débutant",
@@ -451,7 +451,7 @@
             "title": "I'm so Qt ! Ou comment briller facilement en société",
             "type": "Lightning Talk",
             "tags": [
-                "Dev"
+                "Languages"
             ],
             "language": "Français",
             "complexity": "Intermédiaire",
@@ -784,8 +784,8 @@
             "companyLogoUrl": "/images/speakers/company/google.svg",
             "country": "Paris, France",
             "featured": false,
-            "photo": "/images/speakers/guillaume_laforge.jpg",
-            "photoUrl": "/images/speakers/guillaume_laforge.jpg",
+            "photo": "/images/speakers/guillaume_laforge.jpeg",
+            "photoUrl": "/images/speakers/guillaume_laforge.jpeg",
             "socials": [{
                 "icon": "twitter",
                 "link": "https://twitter.com/glaforge",
@@ -1163,8 +1163,8 @@
             "companyLogoUrl": "/images/speakers/company/neos.jpeg",
             "country": "Paris, France",
             "featured": false,
-            "photo": "/images/speakers/renaud_mathieu.jpeg",
-            "photoUrl": "/images/speakers/renaud_mathieu.jpeg",
+            "photo": "/images/speakers/renaud_mathieu.jpg",
+            "photoUrl": "/images/speakers/renaud_mathieu.jpg",
             "socials": [{
                     "icon": "twitter",
                     "link": "https://twitter.com/renaud_mathieu",
@@ -1188,8 +1188,8 @@
             "companyLogoUrl": "/images/speakers/company/zenika.jpg",
             "country": "Nantes, France",
             "featured": false,
-            "photo": "/images/speakers/nicolas_lepage.jpeg",
-            "photoUrl": "/images/speakers/nicolas_lepage.jpeg",
+            "photo": "/images/speakers/nicolas_lepage.jpg",
+            "photoUrl": "/images/speakers/nicolas_lepage.jpg",
             "socials": [{
                     "icon": "twitter",
                     "link": "https://twitter.com/njblepage",
@@ -1301,8 +1301,8 @@
             "companyLogoUrl": "/images/speakers/company/decathlon.jpeg",
             "country": "Lille, France",
             "featured": false,
-            "photo": "/images/speakers/guillaume_gillon.jpeg",
-            "photoUrl": "/images/speakers/guillaume_gillon.jpeg",
+            "photo": "/images/speakers/guillaume_gillon.jpg",
+            "photoUrl": "/images/speakers/guillaume_gillon.jpg",
             "socials": [{
                 "icon": "twitter",
                 "link": "https://twitter.com/gui_gillon",
@@ -1320,8 +1320,8 @@
             "companyLogoUrl": "/images/speakers/company/sogeti.jpg",
             "country": "Nantes, France",
             "featured": false,
-            "photo": "/images/speakers/laurent_guerin.jpeg",
-            "photoUrl": "/images/speakers/laurent_guerin.jpeg",
+            "photo": "/images/speakers/laurent_guerin.jpg",
+            "photoUrl": "/images/speakers/laurent_guerin.jpg",
             "socials": [{
                     "icon": "twitter",
                     "link": "https://twitter.com/ltguerin",
@@ -1630,13 +1630,6 @@
                 {
                     "startTime": "17:30",
                     "endTime": "18:30",
-                    "sessions": [
-                        { "items": [102] }
-                    ]
-                },
-                {
-                    "startTime": "18:20",
-                    "endTime": "19:00",
                     "sessions": [
                         { "items": [102] }
                     ]

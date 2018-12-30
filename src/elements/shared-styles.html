@@ -3,7 +3,7 @@
 
 <!-- shared styles for all views -->
 <dom-module id="shared-styles">
-  <template>
+    <template>
     <style>
       :host {
         --dark-primary-color: #512DA8;
@@ -51,47 +51,55 @@
 
         /* Tags */
         /*from https://github.com/d3/d3-scale-chromatic#schemePastel2*/
-        --tag1:#b3e2cd;
-        --tag2:#fdcdac;
-        --tag3:#cbd5e8;
-        --tag4:#f4cae4;
-        --tag5:#e6f5c9;
-        --tag6:#fff2ae;
-        --tag7:#f1e2cc;
-        --tag8:#cccccc;
+        --tag1:#8ffaa6;
+        --tag2:#a8fff1;
+        --tag3:#e9b5fd;
+        --tag4:#fda9e1;
+        --tag5:#8eddfc;
+        --tag6:#fcc0cf;
+        --tag7:#95bb95;
+        --tag8:#f8fa98;
+        --tag9: #ffaaaa;
+        --tag10: #fface6;
+        --tag11: #d4c4ff;
 
-        --native-mobile-apps: var(--tag2);
-        --native-mobile-apps-text: black;
+        --mobile: var(--tag1);
+        --mobile-text: black;
 
-        --web: var(--tag6);
+        --ux-dev: var(--tag10);
+        --ux-dev-text: black;
+
+        --web: var(--tag8);
         --web-text: black;
 
-        --method-tools: var(--tag5);
-        --method-tools-text: black;
+        --cloud: var(--tag5);
+        --cloud-text: black;
 
-        --big-data-ml-ai: var(--tag3);
-        --big-data-ml-ai-text: black;
+        --alien: var(--tag3);
+        --alien-text: black;
 
         --iot: var(--tag7);
         --iot-text: black;
 
-        --cloud: var(--tag4);
-        --cloud-text: black;
+        --data: var(--tag4);
+        --data-text: black;
 
-        --languages: var(--tag1);
+        --security: var(--tag6);
+        --security-text: black;
+
+        --backend: var(--tag9);
+        --backend-text: black;
+
+        --languages: var(--tag2);
         --languages-text: black;
 
-        --wtf: var(--tag7);
-        --wtf-text: black;
-
-        --general: var(--tag8);
-        --general-text: black;
-
-
+        --ux: var(--tag11);
+        --ux-text: black;
+        
         /* Duration */
-        --quickie: '15';
+        --lightningtalk: '15';
         --conference: '40';
-        --officehours: '40';
+        --atelier: '1h30';
         --keynotes: '40';
       }
 
