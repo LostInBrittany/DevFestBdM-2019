@@ -57,6 +57,19 @@
                 "mathieu_mure", "louis_tournayre"
             ]
         },
+        "3111": {
+            "title": "Hands on Jigsaw - suite",
+            "type": "Atelier",
+            "tags": [
+                "Languages"
+            ],
+            "language": "Français",
+            "complexity": "Débutant",
+            "description": "Avec le modèle de support et de version de Java, nous sommes de plus en plus nombreux à regarder ce que nous propose Java 11…l’inférence de type, l’API reactive ou encore les collections immutables donnent envie de se lancer MAIS le système de module proposé avec Jigsaw fait peur...ou pas!\n\nDans cet atelier nous vous proposons par un peu de pratique de démystifier le système de module.\n\nVous devrez convertir une application multi-modules au sens Maven/Gradle en une application modulaire au sens Jigsaw (et Maven/Gradle).\n\nCela nous permettra d’aborder notamment les notions de module path, de gestion des dépendances ainsi que les impacts sur les tests unitaires. Le tout avec forcément des problématiques de build.\n\nVous aurez besoin des outils suivants (pour gagner du temps vous pouvez les installer par avance) :\n\n* [GIT](https://git-scm.com/).\n* La dernière version du JDK 11 [jdk.java.net](http://jdk.java.net/11/) ou [AdoptOpenJDK](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) avec la variable d'environnement JAVA_HOME correctement configurée. [SdkMan](http://sdkman.io/) est un excellent outil pour installer et gérer vos versions de java (et gradle, maven, kotlin, ...).\n* Votre/notre IDE préféré [IntelliJ](https://www.jetbrains.com/idea/download/).\n",
+            "speakers": [
+                "mathieu_mure", "louis_tournayre"
+            ]
+        },
         "3201": {
             "title": "Développez une application de réalité augmentée 100% Web",
             "type": "Atelier",
@@ -70,8 +83,34 @@
                 "vincent_ogloblinsky"
             ]
         },
+        "3211": {
+            "title": "Développez une application de réalité augmentée 100% Web - suite",
+            "type": "Atelier",
+            "tags": [
+                "Web"
+            ],
+            "language": "Français",
+            "complexity": "Débutant",
+            "description": "Et si on développait un menu de restaurant innovant ?\n\nLa réalité augmentée permet d'afficher des élements 3D au-dessus d'un flux vidéo live de la caméra de votre téléphone pour donner l'illusion que votre élement fait partie du monde réel.\n\nLes usages ont explosé depuis l'arrivée en 2017 des frameworks ARKit et ARCore, et gràce à l'API WebXR les développeurs web vont eux-aussi pourvoir créer leur propre application AR.\n\nNous vous guiderons, au-cours de cet atelier, dans les différentes étapes de création de votre première application en réalité augmentée :\n\n- comment utiliser l'API WebXR\n\n- comment trouver une surface en utilisant le hit testing\n\n- comment charger et afficher en synchronisation avec le flux vidéo de votre caméra votre modèle 3D\n\n- comment utiliser tout cela pour donner le choix à un futur client d'un restaurant de prévisualiser son plat en réalité augmentée",
+            "speakers": [
+                "vincent_ogloblinsky"
+            ]
+        },
         "3301": {
             "title": "Découvrir Flutter et créer sa première application",
+            "type": "Atelier",
+            "tags": [
+                "Mobile"
+            ],
+            "language": "Français",
+            "complexity": "Débutant",
+            "description": "Flutter est un SDK open-source de Google pour créer des application iOS et Android performantes et adaptées à l’OS. \nSon intégration native et ses niveaux de performance vont au delà de ce que Xamarin ou React Native peuvent proposer.\n\nFlutter arrive aussi avec une promesse : \"Build beautiful native apps in record time\".\nLes 90 minutes de ce workshop seront donc largement suffisantes pour faire un tour d'horizon de Flutter tout en développant une \"Beautiful Native App\" avec très peu de lignes de code!\n\nPREREQUIS INDISPENSABLE, vous devez apporter un ordinateur (PC portable ou MacBook) avec un environnement Flutter opérationnel en ayant suivi les 3 étapes suivantes :\n* https://flutter.io/docs/get-started/install\n* https://flutter.io/docs/get-started/editor\n* https://flutter.io/docs/get-started/test-drive\n\nSi vous affichez l'application de base dans un émulateur c'est tout bon !!!",
+            "speakers": [
+                "pierre_tibulle", "romain_rastel"
+            ]
+        },
+        "3311": {
+            "title": "Découvrir Flutter et créer sa première application - suite",
             "type": "Atelier",
             "tags": [
                 "Mobile"
@@ -364,7 +403,7 @@
             ],
             "language": "Français",
             "complexity": "Débutant",
-            "description": "AI par ci, IA par là, Data tous azimuts !\n\nOn nous cuisine à toutes les sauces cette \"révolution\" mais quand on est développeur (ou pas), difficile de s'y retrouver et surtout de se lancer : \n- faut-il être un cador en math ?\n- peut-on faire tourner un réseau de neurones sans en avoir soi-même ?\n- quelles sont les ressources incontournables pour s'initier au monde de la Data ?\n- Data Scientist ? Data Engineer ? Machine Learning Engineer ? Deep Learning Engineer ? 🤔  ????\n\nDepuis 2ans, je me forme doucement (veille très très active) à ce monde là. J'ai écumé les moocs, les newsletters et les chaînes youtube. \nJe vais vous **partager** tout ça et j'espère en **convaincre** un certain nombre à franchir le pas ! \n\nIl n'y aura pas que de la théorie et du partage de ressources. Des démos d'outils accompagneront cette conférence.\n\nEt le meilleur est qu'avec un profil développeur, vous avez une bonne base pour être un bon Data ##### (remplir avec le mot approprié).\n\n\n**Format privilégié : Conférence**",
+            "description": "AI par ci, IA par là, Data tous azimuts !\n\nOn nous cuisine à toutes les sauces cette \"révolution\" mais quand on est développeur (ou pas), difficile de s'y retrouver et surtout de se lancer : \n- faut-il être un cador en math ?\n- peut-on faire tourner un réseau de neurones sans en avoir soi-même ?\n- quelles sont les ressources incontournables pour s'initier au monde de la Data ?\n- Data Scientist ? Data Engineer ? Machine Learning Engineer ? Deep Learning Engineer ? 🤔  ????\n\nDepuis 2ans, je me forme doucement (veille très très active) à ce monde là. J'ai écumé les moocs, les newsletters et les chaînes youtube. \nJe vais vous **partager** tout ça et j'espère en **convaincre** un certain nombre à franchir le pas ! \n\nIl n'y aura pas que de la théorie et du partage de ressources. Des démos d'outils accompagneront cette conférence.\n\nEt le meilleur est qu'avec un profil développeur, vous avez une bonne base pour être un bon Data ##### (remplir avec le mot approprié).",
             "speakers": [
                 "maxime_pawlak"
             ]
@@ -1550,7 +1589,7 @@
                         { "items": [4301] },
                         { "items": [4302] },
                         { "items": [4303] },
-                        { "items": [3101] }
+                        { "items": [3111] }
                     ]
                 },
                 {
@@ -1597,7 +1636,7 @@
                         { "items": [4501] },
                         { "items": [4502] },
                         { "items": [4503] },
-                        { "items": [3201] }
+                        { "items": [3211] }
                     ]
                 },
                 {
@@ -1624,7 +1663,7 @@
                         { "items": [4701] },
                         { "items": [4702] },
                         { "items": [4703] },
-                        { "items": [3301] }
+                        { "items": [3311] }
                     ]
                 },
                 {
