@@ -1879,7 +1879,7 @@
         "name": "Early Bird",
         "price": 25,
         "regular": true,
-        "soldOut": false,
+        "soldOut": true,
         "starts": "Dec 19",
         "url": "https://www.billetweb.fr/devfest-du-bout-du-monde"
     }, {
