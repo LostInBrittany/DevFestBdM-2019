@@ -14,8 +14,10 @@
             "image": "",
             "class": "intro",
             "id": 101,
-            "tags": [],
-            "type": "Keynotes",
+            "tags": [
+                "General"
+            ],
+            "type": "Keynote",
             "speakers": []
         },
         "102": {
@@ -24,8 +26,10 @@
             "image": "",
             "class": "end",
             "id": 102,
-            "tags": [],
-            "type": "Keynotes",
+            "tags": [
+                "General"
+            ],
+            "type": "Keynote",
             "speakers": []
         },
         "103": {
@@ -1867,7 +1871,7 @@
         "starts": "Dec 17",
         "url": "https://www.billetweb.fr/devfest-du-bout-du-monde"
     }, {
-        "available": true,
+        "available": false,
         "currency": "€",
         "ends": "Jan 31",
         "inDemand": false,
@@ -1879,7 +1883,7 @@
         "starts": "Dec 19",
         "url": "https://www.billetweb.fr/devfest-du-bout-du-monde"
     }, {
-        "available": false,
+        "available": true,
         "currency": "€",
         "ends": "Jan 31",
         "inDemand": false,
