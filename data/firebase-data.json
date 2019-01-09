@@ -1127,8 +1127,8 @@
         "jeremy_crestel": {
             "id": "jeremy_crestel",
             "name": "Jérémy Crestel",
-            "bio": "",
-            "shortBio": "",
+            "bio": "Développeur et co-fondateur @Avalon_Lab, j'aime découvrir de nouvelles méthodes, de nouveaux langages afin d'élargir ma culture de développeur et pouvoir la partager.",
+            "shortBio": "Développeur et co-fondateur @Avalon_Lab",
             "company": "Avalon Lab",
             "companyLogo": "/images/speakers/company/avalon_lab.png",
             "companyLogoUrl": "/images/speakers/company/avalon_lab.png",
@@ -1136,13 +1136,24 @@
             "featured": false,
             "photo": "/images/speakers/jeremy_crestel.jpg",
             "photoUrl": "/images/speakers/jeremy_crestel.jpg",
+                      "socials": [{
+                    "icon": "twitter",
+                    "link": "https://twitter.com/j_crestel",
+                    "name": "@j_crestel"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/JCrestel",
+                    "name": "JCrestel"
+                }
+            ],
             "title": ""
         },
         "mathieu_marchadour": {
             "id": "mathieu_marchadour",
             "name": "Mathieu Marchadour",
-            "bio": "",
-            "shortBio": "",
+            "bio": "Développeur et co-fondateur @Avalon_Lab",
+            "shortBio": "Développeur et co-fondateur @Avalon_Lab",
             "company": "Avalon Lab",
             "companyLogo": "/images/speakers/company/avalon_lab.png",
             "companyLogoUrl": "/images/speakers/company/avalon_lab.png",
@@ -1150,6 +1161,17 @@
             "featured": false,
             "photo": "/images/speakers/mathieu_marchadour.jpg",
             "photoUrl": "/images/speakers/mathieu_marchadour.jpg",
+            "socials": [{
+                    "icon": "twitter",
+                    "link": "https://twitter.com/mmarchad",
+                    "name": "@mmarchad"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/mmarchad",
+                    "name": "mmarchad"
+                }
+            ],
             "title": ""
         },
         "jean_francois_le_foll": {
