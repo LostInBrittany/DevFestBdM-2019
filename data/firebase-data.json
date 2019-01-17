@@ -1468,6 +1468,11 @@
                     "logoUrl": "/images/partners/logo-cesi.png"
                 },
                 {
+                    "name": "Orange",
+                    "url": "https://www.orange.fr/",
+                    "logoUrl": "/images/partners/logo-orange.png"
+                },
+                {
                     "name": "Zenika",
                     "url": "https://www.zenika.com/",
                     "logoUrl": "/images/partners/logo-zenika.png"
@@ -1493,6 +1498,11 @@
                     "logoUrl": "/images/partners/logo-avalon-lab.svg"
                 },
                 {
+                    "name": "Capgemini",
+                    "url": "https://www.capgemini.com/",
+                    "logoUrl": "/images/partners/logo-capgemini.png"
+                },
+                {
                     "name": "Clever Cloud",
                     "url": "https://www.clever-cloud.com/",
                     "logoUrl": "/images/partners/logo-clever-cloud-red.svg"
@@ -1507,11 +1517,18 @@
         {
             "title": "Sponsors PALET",
             "style": "partner",
-            "logos": [{
-                "name": "Saagie",
-                "url": "https://www.saagie.com/",
-                "logoUrl": "/images/partners/logo-saagie.jpg"
-            }]
+            "logos": [
+                {
+                    "name": "DCbrain",
+                    "url": "https://www.dcbrain.com/",
+                    "logoUrl": "/images/partners/logo-dcbrain.png"
+                },
+                {
+                    "name": "Saagie",
+                    "url": "https://www.saagie.com/",
+                    "logoUrl": "/images/partners/logo-saagie.jpg"
+                }
+            ]
         },
         {
             "title": "Partenaires",
@@ -1541,11 +1558,23 @@
         {
             "title": "Soutiens",
             "style": "partner",
-            "logos": [{
-                "name": "Intia",
-                "url": "https://intia.fr/",
-                "logoUrl": "/images/partners/logo-intia.jpg"
-            }]
+            "logos": [
+                {
+                "name": "A l'Aise Breizh",
+                "url": "https://shop.alaisebreizh.com/",
+                "logoUrl": "/images/partners/logo-alaisebreizh.png"
+                },
+                {
+                "name": "La Gourmandise de Sylvie",
+                "url": "https://www.facebook.com/Lagourmandisedesylvie/",
+                "logoUrl": "/images/partners/logo-sylvie.png"
+                },
+                {
+                    "name": "Intia",
+                    "url": "https://intia.fr/",
+                    "logoUrl": "/images/partners/logo-intia.jpg"
+                }
+            ]
         },
         {
             "title": "Communautés",
