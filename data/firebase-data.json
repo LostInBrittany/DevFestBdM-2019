@@ -1573,6 +1573,11 @@
                     "name": "Intia",
                     "url": "https://intia.fr/",
                     "logoUrl": "/images/partners/logo-intia.jpg"
+                },
+                {
+                    "name": "Distillerie Warenghem",
+                    "url": "https://distillerie-warenghem.com/",
+                    "logoUrl": "/images/partners/logo-warenghem.jpg"
                 }
             ]
         },
