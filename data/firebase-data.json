@@ -1448,11 +1448,18 @@
     "partners": [{
             "title": "Sponsors KOUIGN AMANN",
             "style": "partner-pt",
-            "logos": [{
-                "name": "Google",
-                "url": "https://www.google.com/",
-                "logoUrl": "/images/partners/logo-google.jpg"
-            }]
+            "logos": [
+                {
+                    "name": "Google",
+                    "url": "https://www.google.com/",
+                    "logoUrl": "/images/partners/logo-google.jpg"
+                },
+                {
+                    "name": "Crédit Mutuel Arkéa",
+                    "url": "https://www.arkea.com/",
+                    "logoUrl": "/images/partners/logo-arkea.png"
+                }
+            ]
         },
         {
             "title": "Sponsors FAR",
@@ -1469,7 +1476,7 @@
                 },
                 {
                     "name": "Orange",
-                    "url": "https://www.orange.com/",
+                    "url": "https://developer.orange.com/",
                     "logoUrl": "/images/partners/logo-orange.png"
                 },
                 {
@@ -1500,7 +1507,7 @@
                 {
                     "name": "Capgemini",
                     "url": "https://www.capgemini.com/",
-                    "logoUrl": "/images/partners/logo-capgemini.png"
+                    "logoUrl": "/images/partners/logo-capgemini.svg"
                 },
                 {
                     "name": "Clever Cloud",
@@ -1527,6 +1534,11 @@
                     "name": "Saagie",
                     "url": "https://www.saagie.com/",
                     "logoUrl": "/images/partners/logo-saagie.jpg"
+                },
+                {
+                    "name": "SII",
+                    "url": "http://www.groupe-sii.com/fr",
+                    "logoUrl": "/images/partners/logo-sii.png"
                 }
             ]
         },
