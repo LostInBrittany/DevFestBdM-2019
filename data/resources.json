@@ -101,7 +101,7 @@
         "notAvailableYet": "Pas encore disponible...",
         "save": "Économisez ${discount}% !",
         "shopTitle": "Billetterie",
-        "shopLink": ""
+        "shopLink": "https://www.billetweb.fr/devfest-du-bout-du-monde"
     },
     "partnersBlock": {
         "title": "Partenaires",
