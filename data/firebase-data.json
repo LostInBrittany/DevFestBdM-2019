@@ -1438,10 +1438,18 @@
         "rgpd": {
             "backgroundColor": "#ddd",
             "brief": "Même les associations n'y échappent pas, alors parlons-en un peu...",
-            "image": "images/backgrounds/launch2019.png",
+            "image": "images/backgrounds/rgpd2019.png",
             "published": "2018-12-20",
             "source": "data/posts/2018-12-20-RGPD.md",
             "title": "Et si on parlait RGPD ?"
+        },
+        "equipe": {
+            "backgroundColor": "#ddd",
+            "brief": "On ne vous a pas encore parlé de l'équipe !",
+            "image": "images/backgrounds/crew2019.png",
+            "published": "2019-01-31",
+            "source": "data/posts/2018-12-20-RGPD.md",
+            "title": "Au fait, qui organise ?"
         }
     },
     "gallery": [],
