@@ -1590,6 +1590,11 @@
                     "name": "Distillerie Warenghem",
                     "url": "https://distillerie-warenghem.com/",
                     "logoUrl": "/images/partners/logo-warenghem.jpg"
+                },
+                {
+                    "name": "FabLab de Lannion",
+                    "url": "http://www.fablab-lannion.org/",
+                    "logoUrl": "/images/partners/logo-fablablannion.png"
                 }
             ]
         },
