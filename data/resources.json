@@ -53,10 +53,16 @@
         {
             "title": "Devenir partenaire",
             "links": [{
-                "name": "Proposition de partenariat",
-                "url": "https://drive.google.com/open?id=1MP68woWboXbjSO4HG1VJvTT0eqrABrxM",
-                "newTab": true
-            }]
+                    "name": "Proposition de partenariat",
+                    "url": "https://drive.google.com/open?id=1MP68woWboXbjSO4HG1VJvTT0eqrABrxM",
+                    "newTab": true
+                },
+                {
+                    "name": "Dossier de presse",
+                    "url": "https://drive.google.com/file/d/1VZk0zDvpqk171_5zLraZ8z-OCJi5cQ3d/view?usp=sharing",
+                    "newTab": true
+                }
+            ]
         }
     ],
     "subscribeNote": "Pas de spam, juste les dernières infos !",
