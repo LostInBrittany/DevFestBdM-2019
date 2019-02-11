@@ -690,8 +690,8 @@
         "mathieu_mure": {
             "id": "mathieu_mure",
             "name": "Mathieu Mure",
-            "bio": "",
-            "shortBio": "",
+            "bio": "Développeur Full stack à Zenika, je suis passionné par le web et j'aime partager mes connaissances à travers des conférences ou des formations.",
+            "shortBio": "Front & Back dev @ Zenika",
             "company": "Zenika",
             "companyLogo": "/images/speakers/company/zenika.jpg",
             "companyLogoUrl": "/images/speakers/company/zenika.jpg",
@@ -699,7 +699,18 @@
             "featured": false,
             "photo": "/images/speakers/mathieu_mure.jpg",
             "photoUrl": "/images/speakers/mathieu_mure.jpg",
-            "title": ""
+            "socials": [{
+                  "icon": "twitter",
+                  "link": "https://twitter.com/MathieuMure",
+                  "name": "@MathieuMure"
+              },
+              {
+                  "icon": "github",
+                  "link": "https://github.com/mathieumure",
+                  "name": "MathieuMure"
+              }
+            ],
+            "title": "Front & Back dev @ Zenika"
         },
         "louis_tournayre": {
             "id": "louis_tournayre",
