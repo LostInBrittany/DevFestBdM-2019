@@ -1,11 +1,11 @@
 {
   "basepath": "/",
-  "url": "https://devfestbdm.firebaseapp.com/",
+  "url": "https://devfest.duboutdumonde.bzh/",
   "analytics": "UA-37717223-7",
   "prefix": "/",
   "firebase": {
     "apiKey": "AIzaSyAqGJQp4WR4QrxNWanJBXDi8eWDJFeaY50",
-    "authDomain": "devfestbdm.firebaseapp.com",
+    "authDomain": "devfest.duboutdumonde.bzh",
     "databaseURL": "https://devfestbdm.firebaseio.com",
     "projectId": "devfestbdm",
     "storageBucket": "devfestbdm.appspot.com",
