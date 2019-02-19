@@ -81,8 +81,8 @@
                 "Web"
             ],
             "language": "Français",
-            "complexity": "Débutant",
-            "description": "Et si on développait un menu de restaurant innovant ?\n\nLa réalité augmentée permet d'afficher des élements 3D au-dessus d'un flux vidéo live de la caméra de votre téléphone pour donner l'illusion que votre élement fait partie du monde réel.\n\nLes usages ont explosé depuis l'arrivée en 2017 des frameworks ARKit et ARCore, et gràce à l'API WebXR les développeurs web vont eux-aussi pourvoir créer leur propre application AR.\n\nNous vous guiderons, au-cours de cet atelier, dans les différentes étapes de création de votre première application en réalité augmentée :\n\n- comment utiliser l'API WebXR\n\n- comment trouver une surface en utilisant le hit testing\n\n- comment charger et afficher en synchronisation avec le flux vidéo de votre caméra votre modèle 3D\n\n- comment utiliser tout cela pour donner le choix à un futur client d'un restaurant de prévisualiser son plat en réalité augmentée",
+            "complexity": "Intermédiaire",
+            "description": "Et si on développait un menu de restaurant innovant ?\n\nLa réalité augmentée permet d'afficher des élements 3D au-dessus d'un flux vidéo live de la caméra de votre téléphone pour donner l'illusion que votre élement fait partie du monde réel.\n\nLes usages ont explosé depuis l'arrivée en 2017 des frameworks ARKit et ARCore, et gràce à l'API WebXR les développeurs web vont eux-aussi pourvoir créer leur propre application AR.\n\nNous vous guiderons, au-cours de cet atelier, dans les différentes étapes de création de votre première application en réalité augmentée :\n\n- comment utiliser l'API WebXR\n\n- comment trouver une surface en utilisant le hit testing\n\n- comment charger et afficher en synchronisation avec le flux vidéo de votre caméra votre modèle 3D\n\n- comment utiliser tout cela pour donner le choix à un futur client d'un restaurant de prévisualiser son plat en réalité augmentée.\n\nPré-requis matériel: téléphone sous Android 8 Oreo.",
             "speakers": [
                 "vincent_ogloblinsky"
             ]
@@ -94,7 +94,7 @@
                 "Web"
             ],
             "language": "Français",
-            "complexity": "Débutant",
+            "complexity": "Intermédiaire",
             "description": "Et si on développait un menu de restaurant innovant ?\n\nLa réalité augmentée permet d'afficher des élements 3D au-dessus d'un flux vidéo live de la caméra de votre téléphone pour donner l'illusion que votre élement fait partie du monde réel.\n\nLes usages ont explosé depuis l'arrivée en 2017 des frameworks ARKit et ARCore, et gràce à l'API WebXR les développeurs web vont eux-aussi pourvoir créer leur propre application AR.\n\nNous vous guiderons, au-cours de cet atelier, dans les différentes étapes de création de votre première application en réalité augmentée :\n\n- comment utiliser l'API WebXR\n\n- comment trouver une surface en utilisant le hit testing\n\n- comment charger et afficher en synchronisation avec le flux vidéo de votre caméra votre modèle 3D\n\n- comment utiliser tout cela pour donner le choix à un futur client d'un restaurant de prévisualiser son plat en réalité augmentée",
             "speakers": [
                 "vincent_ogloblinsky"
