@@ -309,7 +309,7 @@
             ]
         },
         "4502": {
-            "title": "L’accessibilité sur Android en 2018/2019",
+            "title": "L’accessibilité sur Android en 2019",
             "type": "Conférence",
             "tags": [
                 "Mobile"
@@ -690,8 +690,8 @@
         "mathieu_mure": {
             "id": "mathieu_mure",
             "name": "Mathieu Mure",
-            "bio": "",
-            "shortBio": "",
+            "bio": "Développeur Full stack à Zenika, je suis passionné par le web et j'aime partager mes connaissances à travers des conférences ou des formations.",
+            "shortBio": "Front & Back dev @ Zenika",
             "company": "Zenika",
             "companyLogo": "/images/speakers/company/zenika.jpg",
             "companyLogoUrl": "/images/speakers/company/zenika.jpg",
@@ -699,7 +699,18 @@
             "featured": false,
             "photo": "/images/speakers/mathieu_mure.jpg",
             "photoUrl": "/images/speakers/mathieu_mure.jpg",
-            "title": ""
+            "socials": [{
+                  "icon": "twitter",
+                  "link": "https://twitter.com/MathieuMure",
+                  "name": "@MathieuMure"
+              },
+              {
+                  "icon": "github",
+                  "link": "https://github.com/mathieumure",
+                  "name": "MathieuMure"
+              }
+            ],
+            "title": "Front & Back dev @ Zenika"
         },
         "louis_tournayre": {
             "id": "louis_tournayre",
@@ -1127,8 +1138,8 @@
         "jeremy_crestel": {
             "id": "jeremy_crestel",
             "name": "Jérémy Crestel",
-            "bio": "",
-            "shortBio": "",
+            "bio": "Développeur et co-fondateur @Avalon_Lab, j'aime découvrir de nouvelles méthodes, de nouveaux langages afin d'élargir ma culture de développeur et pouvoir la partager.",
+            "shortBio": "Développeur et co-fondateur @Avalon_Lab",
             "company": "Avalon Lab",
             "companyLogo": "/images/speakers/company/avalon_lab.png",
             "companyLogoUrl": "/images/speakers/company/avalon_lab.png",
@@ -1136,13 +1147,24 @@
             "featured": false,
             "photo": "/images/speakers/jeremy_crestel.jpg",
             "photoUrl": "/images/speakers/jeremy_crestel.jpg",
+                      "socials": [{
+                    "icon": "twitter",
+                    "link": "https://twitter.com/j_crestel",
+                    "name": "@j_crestel"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/JCrestel",
+                    "name": "JCrestel"
+                }
+            ],
             "title": ""
         },
         "mathieu_marchadour": {
             "id": "mathieu_marchadour",
             "name": "Mathieu Marchadour",
-            "bio": "",
-            "shortBio": "",
+            "bio": "Développeur et co-fondateur @Avalon_Lab",
+            "shortBio": "Développeur et co-fondateur @Avalon_Lab",
             "company": "Avalon Lab",
             "companyLogo": "/images/speakers/company/avalon_lab.png",
             "companyLogoUrl": "/images/speakers/company/avalon_lab.png",
@@ -1150,6 +1172,17 @@
             "featured": false,
             "photo": "/images/speakers/mathieu_marchadour.jpg",
             "photoUrl": "/images/speakers/mathieu_marchadour.jpg",
+            "socials": [{
+                    "icon": "twitter",
+                    "link": "https://twitter.com/mmarchad",
+                    "name": "@mmarchad"
+                },
+                {
+                    "icon": "github",
+                    "link": "https://github.com/mmarchad",
+                    "name": "mmarchad"
+                }
+            ],
             "title": ""
         },
         "jean_francois_le_foll": {
@@ -1416,21 +1449,36 @@
         "rgpd": {
             "backgroundColor": "#ddd",
             "brief": "Même les associations n'y échappent pas, alors parlons-en un peu...",
-            "image": "images/backgrounds/launch2019.png",
+            "image": "images/backgrounds/rgpd2019.jpg",
             "published": "2018-12-20",
             "source": "data/posts/2018-12-20-RGPD.md",
             "title": "Et si on parlait RGPD ?"
+        },
+        "equipe": {
+            "backgroundColor": "#ddd",
+            "brief": "On ne vous a pas encore parlé de l'équipe !",
+            "image": "images/backgrounds/crew2019.jpg",
+            "published": "2019-01-31",
+            "source": "data/posts/2019-01-31-team.md",
+            "title": "Au fait, qui organise ?"
         }
     },
     "gallery": [],
     "partners": [{
             "title": "Sponsors KOUIGN AMANN",
             "style": "partner-pt",
-            "logos": [{
-                "name": "Google",
-                "url": "https://www.google.com/",
-                "logoUrl": "/images/partners/logo-google.jpg"
-            }]
+            "logos": [
+                {
+                    "name": "Google",
+                    "url": "https://www.google.com/",
+                    "logoUrl": "/images/partners/logo-google.jpg"
+                },
+                {
+                    "name": "Crédit Mutuel Arkéa",
+                    "url": "https://www.arkea.com/",
+                    "logoUrl": "/images/partners/logo-arkea.png"
+                }
+            ]
         },
         {
             "title": "Sponsors FAR",
@@ -1444,6 +1492,11 @@
                     "name": "CESI",
                     "url": "https://www.cesi.fr/",
                     "logoUrl": "/images/partners/logo-cesi.png"
+                },
+                {
+                    "name": "Orange",
+                    "url": "https://developer.orange.com/",
+                    "logoUrl": "/images/partners/logo-orange.png"
                 },
                 {
                     "name": "Zenika",
@@ -1471,6 +1524,11 @@
                     "logoUrl": "/images/partners/logo-avalon-lab.svg"
                 },
                 {
+                    "name": "Capgemini",
+                    "url": "https://www.capgemini.com/",
+                    "logoUrl": "/images/partners/logo-capgemini.svg"
+                },
+                {
                     "name": "Clever Cloud",
                     "url": "https://www.clever-cloud.com/",
                     "logoUrl": "/images/partners/logo-clever-cloud-red.svg"
@@ -1485,11 +1543,23 @@
         {
             "title": "Sponsors PALET",
             "style": "partner",
-            "logos": [{
-                "name": "Saagie",
-                "url": "https://www.saagie.com/",
-                "logoUrl": "/images/partners/logo-saagie.jpg"
-            }]
+            "logos": [
+                {
+                    "name": "DCbrain",
+                    "url": "https://www.dcbrain.com/",
+                    "logoUrl": "/images/partners/logo-dcbrain.png"
+                },
+                {
+                    "name": "Saagie",
+                    "url": "https://www.saagie.com/",
+                    "logoUrl": "/images/partners/logo-saagie.jpg"
+                },
+                {
+                    "name": "SII",
+                    "url": "http://www.groupe-sii.com/fr",
+                    "logoUrl": "/images/partners/logo-sii.png"
+                }
+            ]
         },
         {
             "title": "Partenaires",
@@ -1519,11 +1589,33 @@
         {
             "title": "Soutiens",
             "style": "partner",
-            "logos": [{
-                "name": "Intia",
-                "url": "https://intia.fr/",
-                "logoUrl": "/images/partners/logo-intia.jpg"
-            }]
+            "logos": [
+                {
+                "name": "A l'Aise Breizh",
+                "url": "https://shop.alaisebreizh.com/",
+                "logoUrl": "/images/partners/logo-alaisebreizh.png"
+                },
+                {
+                "name": "La Gourmandise de Sylvie",
+                "url": "https://www.facebook.com/Lagourmandisedesylvie/",
+                "logoUrl": "/images/partners/logo-sylvie.png"
+                },
+                {
+                    "name": "Intia",
+                    "url": "https://intia.fr/",
+                    "logoUrl": "/images/partners/logo-intia.jpg"
+                },
+                {
+                    "name": "Distillerie Warenghem",
+                    "url": "https://distillerie-warenghem.com/",
+                    "logoUrl": "/images/partners/logo-warenghem.jpg"
+                },
+                {
+                    "name": "FabLab de Lannion",
+                    "url": "http://www.fablab-lannion.org/",
+                    "logoUrl": "/images/partners/logo-fablablannion.png"
+                }
+            ]
         },
         {
             "title": "Communautés",
