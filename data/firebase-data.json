@@ -1461,6 +1461,14 @@
             "published": "2019-01-31",
             "source": "data/posts/2019-01-31-team.md",
             "title": "Au fait, qui organise ?"
+        },
+        "speakers": {
+            "backgroundColor": "#ddd",
+            "brief": "Un programme furieusement riche vous attend, avec de la diversité...",
+            "image": "images/backgrounds/todo2019.jpg",
+            "published": "2019-02-20",
+            "source": "data/posts/2019-02-20-speakers.md",
+            "title": "Alors au programme vendredi..."
         }
     },
     "gallery": [],
