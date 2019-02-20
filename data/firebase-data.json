@@ -1614,6 +1614,11 @@
                     "name": "FabLab de Lannion",
                     "url": "http://www.fablab-lannion.org/",
                     "logoUrl": "/images/partners/logo-fablablannion.png"
+                },
+                {
+                    "name": "3BF Studio",
+                    "url": "https://3bf.fr/",
+                    "logoUrl": "/images/partners/logo-fablablannion.png"
                 }
             ]
         },
