@@ -1545,6 +1545,16 @@
                     "name": "LR Technologies",
                     "url": "https://lrtechnologies.fr/",
                     "logoUrl": "/images/partners/logo-lr-technologies.png"
+                },
+                {
+                    "name": "OVH",
+                    "url": "https://www.ovh.com/",
+                    "logoUrl": "/images/partners/logo-ovh.jpg"
+                },
+                {
+                    "name": "Thales",
+                    "url": "https://www.thalesgroup.com/",
+                    "logoUrl": "/images/partners/logo-thales.png"
                 }
             ]
         },
